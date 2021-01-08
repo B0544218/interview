@@ -1,5 +1,3 @@
-# statistic
-
 ### 參考網站
 - http://ncku-stat.blogspot.com/p/vs.html
 
